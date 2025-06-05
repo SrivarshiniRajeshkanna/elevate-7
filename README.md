@@ -42,6 +42,7 @@ Each user is displayed in a styled box like this:
 
 ![Screenshot 2025-06-05 201756](https://github.com/user-attachments/assets/fca9c43a-0b9b-48bf-b5e0-d296c677f2e7)
 
+see the website live in https://srivarshinirajeshkanna.github.io/elevate-7/
 ---
 
 ## 🌐 API Source
